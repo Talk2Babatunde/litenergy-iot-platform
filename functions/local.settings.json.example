@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "your_storage_connection",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "EventHubConnection": "your_eventhub_connection"
+  }
+}

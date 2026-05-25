@@ -1,0 +1,5 @@
+resource_group_name = "litenergy-rg"
+location            = "UK South"
+eventhub_namespace  = "litenergy-namespace"
+storage_account     = "litenergystorage"
+function_app_name   = "litenergy-func-app"

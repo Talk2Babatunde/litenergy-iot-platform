@@ -1,0 +1,7 @@
+{
+  "deviceId": "meter-1",
+  "powerUsage": 85.6,
+  "voltage": 244,
+  "timestamp": "2026-05-25T10:30:00Z",
+  "status": "active"
+}

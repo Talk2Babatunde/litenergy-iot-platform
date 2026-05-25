@@ -1,0 +1,7 @@
+{
+  "deviceId": "meter-4",
+  "alertType": "HighPower",
+  "value": 92.3,
+  "severity": "High",
+  "timestamp": "2026-05-25T10:45:00Z"
+}
